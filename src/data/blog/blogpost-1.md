@@ -7,16 +7,14 @@ tags:
   - Friends
   - Travel
 imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: I went to Thailand with my friends this April
 ---
 
-## Deorum petiit ignis
+## Arrival
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+We arrived at Bangkok nearing midnight. We were trying to make our way to our hotel and we figured might as well go outside to experience Thailand and wait for our ride outside the airport. Thailand weather was not that far from Philippine weather. It was blazing hot, even at midnight.
 
-## Iovis late orbem Perseus sunt
+## Day 1
 
 Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
 Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
